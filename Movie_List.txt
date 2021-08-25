@@ -4,11 +4,16 @@ Mr Jones' Favorite movies.
   Jaws - 1975
   Aliens - 1986
   Preadator - 1987
+
+
+Kanav's Favorite movie
+  Harry Potter and the Goblet of Fire
+
   
 Simon Christianson's Favorite movies.
-1. Knives Out
-2. Black Panthor
-3. Iron Man (1st one)
+  1. Knives Out
+  2. Black Panthor
+  3. Iron Man (1st one)
 
 
 Luke Dauer's Favorite movies. 
@@ -49,6 +54,7 @@ Mason Rice
   Doctor Strange - 2016
   The Mitchells vs. The Machines - 2021
   A Quiet Place - 2018
+
 
 
 

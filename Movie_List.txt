@@ -1,5 +1,11 @@
-Mr. Jones' Favorite movies. 
-  Back to the Future - 1985
-  Jaws - 1975
-  Aliens - 1986
-  Preadator - 1987
+Mr Jones' Favborite movies.
+Back to the Future - 1985
+Jaws - 1975
+Aliens - 1986
+Predator - 1987
+
+Luke Dauer's Favorite movies. 
+Gladiator - 2000
+Lion King - 1994
+Star Wars: Empire Strikes Back - 1980
+Iron Man - 2008

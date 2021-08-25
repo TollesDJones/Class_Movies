@@ -11,9 +11,9 @@ Tristan's Favorite movies.
 
   
 Simon Christianson's Favorite movies.
-1. Knives Out
-2. Black Panthor
-3. Iron Man (1st one)
+  1. Knives Out
+  2. Black Panthor
+  3. Iron Man (1st one)
 
 
 Luke Dauer's Favorite movies. 
@@ -44,11 +44,11 @@ Saanil Rao
 
 
 Drew Jordan
-Thor: Ragnarok - 2017
-Scott Pilgrim Vs. The World - 2010
-Interstellar - 2014
-Tenet - 2020
-Star Wars: Revenge of The Sith - 2005
+  Thor: Ragnarok - 2017
+  Scott Pilgrim Vs. The World - 2010
+  Interstellar - 2014
+  Tenet - 2020
+  Star Wars: Revenge of The Sith - 2005
 
 
 Mahdi

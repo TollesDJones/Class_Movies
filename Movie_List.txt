@@ -17,10 +17,10 @@ Simon Christianson's Favorite movies.
 
 
 Luke Dauer's Favorite movies. 
-Gladiator - 2000
-Lion King - 1994
-Star Wars: Empire Strikes Back - 1980
-Iron Man - 2008
+  Gladiator - 2000
+  Lion King - 1994
+  Star Wars: Empire Strikes Back - 1980
+  Iron Man - 2008
 
 
 Megan's favorite movie:
@@ -43,6 +43,14 @@ Saanil Rao
   Silent Voice - 2016
 
 
+Drew Jordan
+Thor: Ragnarok - 2017
+Scott Pilgrim Vs. The World - 2010
+Interstellar - 2014
+Tenet - 2020
+Star Wars: Revenge of The Sith - 2005
+
+
 Mahdi
   Holes
   Kung Fu Panda 3
@@ -54,7 +62,6 @@ Mason Rice
   Doctor Strange - 2016
   The Mitchells vs. The Machines - 2021
   A Quiet Place - 2018
-
 
 
 

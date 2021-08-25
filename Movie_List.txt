@@ -3,3 +3,6 @@ Mr. Jones' Favorite movies.
   Jaws - 1975
   Aliens - 1986
   Preadator - 1987
+
+Megan's favorite movie:
+  Spider-Man: Into the Spider-verse - 2018

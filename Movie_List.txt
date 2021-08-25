@@ -1,5 +1,7 @@
-Mr. Jones' Favorite movies. 
+Tristan's Favorite movies. 
   Back to the Future - 1985
   Jaws - 1975
   Aliens - 1986
   Preadator - 1987
+  Avengers Endgame - 2019
+  The End of Evangelion - 1997
